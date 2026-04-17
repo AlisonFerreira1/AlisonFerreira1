@@ -1,9 +1,11 @@
-<h2 align="left">Oi👋Eu sou o Alison! Estudante de Ciencia da Computação.</h2>
+<h2 align="left">👋 Olá, eu sou o Alison Ferreira</h2> 
+<p align="left"> 🎓 Estudante de Ciência da Computação (5º semestre), com foco em desenvolvimento web full stack. Atualmente, possuo maior domínio em tecnologias de front-end, como HTML, CSS, JavaScript, Next.js e Tailwind CSS, e estou em transição e aprofundamento no backend com C# e ASP.NET Core.<br><br>
 
-<br clear="both">
+💻 Tenho experiência prática no desenvolvimento e manutenção de sistemas internos e aplicações web, utilizando tecnologias como Next.js, Express e PostgreSQL. Também possuo conhecimentos em bancos de dados SQL e MongoDB, além de versionamento de código, testes e boas práticas de desenvolvimento.<br><br>
 
-<p align="left">-🎗️ Iniciante em programação com foco em front-end atualmente cursando ciência da computação (4 período), atuando a 2 anos em areas administrativas (como estagiario) estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades ,e assim aprender sobre novas linguagem e ferramentas.(tenho experiencia com o framework: angular, liguagem de marcaçao: html, , java e linguagem: python, javascript.)<br><br>-🎖️ Me considero um pessoa muito eficiente e proativo com extrema facilidade em trabalhar em equipe, onde se torna visivel ser uma pessoa de facil convivo sempre buscando um clara comunicação, dessa forma contribuir de modo significativa para o crescimento e sucesso da equipe e da organização em que estiver inserida.<br><br>-👨‍💻 Saiba mais sobre mim:</p>
+🛠️ Atuo há cerca de 1 ano com suporte técnico (Help Desk), realizando diagnóstico e resolução de incidentes, instalação e configuração de dispositivos corporativos (PCs, smartphones, tablets e coletores de dados), além de controle e organização de ativos de TI.<br><br>
 
+📊 Tenho experiência com sistemas administrativos como Pulsus e Sankhya, além da administração de contas e serviços no Google Workspace, contribuindo também com a equipe de infraestrutura na manutenção do ambiente tecnológico.<br><br>
 <div align="left">
   <a href="https://www.instagram.com/alison.fq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=696969&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
