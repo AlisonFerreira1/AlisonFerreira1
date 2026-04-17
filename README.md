@@ -7,7 +7,7 @@
 
 📊 Tenho experiência com sistemas administrativos como Pulsus e Sankhya, além da administração de contas e serviços no Google Workspace, contribuindo também com a equipe de infraestrutura na manutenção do ambiente tecnológico.<br><br>
 <div align="left">
-  <a href="https://www.instagram.com/alison.fq/" target="_blank">
+  <a href="https://www.instagram.com/alifq0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=696969&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/alisonferreira0/" target="_blank">
